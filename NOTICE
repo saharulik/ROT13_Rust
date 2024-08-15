@@ -1,0 +1,11 @@
+ROT13 cipher for Rust
+Copyright 2024 by Ivan Sakharovskii.
+
+This software contains code derived from the project 
+comprehensive-rust (https://github.com/google/comprehensive-rust/tree/main) under Google LLC.
+
+The main code used as most part of example implementation code 
+for ROT13 cipher including testing and main function. But some
+changer were applied like implemenation of buffer iterator used
+with filter for alphabetic letters and using a lambda expressions
+for replacing letter.
