@@ -1,4 +1,4 @@
-# ROT12
+# ROT13
 ## Implementation of ROT13 cipher on rust 🦀
 
 ROT13 is a simple letter cipher with replacement of every character in alphabet with 13+ shift. 
